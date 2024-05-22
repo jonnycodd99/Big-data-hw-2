@@ -1,0 +1,41 @@
+Id:ID,name,type,city,edition:INT,date,year:INT,month:INT,day:INT
+8ba8e304-6f05-4ace-8a68-61b5ed47e1aa,"Perkins, Aguilar and Fowler Workshop",Workshop,Kerrhaven,8,2015-08-11,2015,8,11
+f3cbc215-1f18-43e0-938d-379e1a09dd9d,"Perkins, Aguilar and Fowler Workshop",Workshop,Kerrhaven,9,2016-08-09,2016,8,9
+ea5aed36-9a9e-4df0-86d2-303bb8c4c0d2,"Perkins, Aguilar and Fowler Workshop",Workshop,Kerrhaven,10,2017-08-28,2017,8,28
+0f083979-bc97-42ee-9d39-d743ee0ad13b,"Perkins, Aguilar and Fowler Workshop",Workshop,Kerrhaven,11,2018-08-14,2018,8,14
+fc07e6cb-eea7-46c2-9cdd-88d9b27b70a5,"Perkins, Aguilar and Fowler Workshop",Workshop,Kerrhaven,12,2019-08-08,2019,8,8
+d5815406-c4e2-49c2-aab7-8582062b199c,"Perkins, Aguilar and Fowler Workshop",Workshop,Kerrhaven,13,2020-08-12,2020,8,12
+c27f006f-6cf7-4d9f-b988-90774c4ec822,"Perkins, Aguilar and Fowler Workshop",Workshop,Kerrhaven,14,2021-08-24,2021,8,24
+c6e84dd3-37e9-4b37-a9d3-77c994a82d8d,"Perkins, Aguilar and Fowler Workshop",Workshop,Kerrhaven,15,2022-08-14,2022,8,14
+5662c4bf-ebb0-4206-a29d-3cc4e44a41ea,Browning-Davis Workshop,Workshop,Browntown,44,2015-09-17,2015,9,17
+f921861f-5223-4114-952e-f9a1dbd292eb,Browning-Davis Workshop,Workshop,Browntown,45,2016-09-01,2016,9,1
+5acb8bc2-7fbb-4c80-b6cf-018d94123fc1,Browning-Davis Workshop,Workshop,Browntown,46,2017-09-13,2017,9,13
+9cd4a050-34fa-4677-9079-d9170830eb33,Browning-Davis Workshop,Workshop,Browntown,47,2018-09-05,2018,9,5
+463c0c94-9a35-43d7-9c82-d5c541611e92,Browning-Davis Workshop,Workshop,Browntown,48,2019-09-07,2019,9,7
+5361c642-9db3-4405-8b50-2cf178a2421f,Browning-Davis Workshop,Workshop,Browntown,49,2020-09-21,2020,9,21
+e567632c-9b6b-47f2-b2d6-c64146561c08,Browning-Davis Workshop,Workshop,Browntown,50,2021-09-23,2021,9,23
+9b8c89e6-2ab3-46e6-9a68-b96424fa0672,Browning-Davis Workshop,Workshop,Browntown,51,2022-09-26,2022,9,26
+913e3f46-d5d2-4962-b60d-5a5040425643,"Martinez, Perry and Smith Workshop",Workshop,New Adam,83,2015-05-28,2015,5,28
+dabaaf85-40f6-429d-8bc5-a91739f0a91b,"Martinez, Perry and Smith Workshop",Workshop,New Adam,84,2016-05-07,2016,5,7
+e1cd59af-e07d-43da-9139-9ff3c798c384,"Martinez, Perry and Smith Workshop",Workshop,New Adam,85,2017-05-25,2017,5,25
+d4706f05-66e3-4a2a-9339-a3c9d22d101d,"Martinez, Perry and Smith Workshop",Workshop,New Adam,86,2018-05-07,2018,5,7
+1e147ac0-5af7-4fd4-86e7-0aa2d3f81b3f,"Martinez, Perry and Smith Workshop",Workshop,New Adam,87,2019-05-20,2019,5,20
+adc1b001-765e-4eca-84f1-76b7fbb6ef55,"Martinez, Perry and Smith Workshop",Workshop,New Adam,88,2020-05-09,2020,5,9
+2df4eeb1-edeb-4b95-8893-ca82123a0632,"Martinez, Perry and Smith Workshop",Workshop,New Adam,89,2021-05-04,2021,5,4
+7afb68d2-f05a-458d-bd67-4e584b11299d,"Martinez, Perry and Smith Workshop",Workshop,New Adam,90,2022-05-13,2022,5,13
+2c348377-f294-4b46-b7b4-7fe9ce331e70,Wang PLC Conference,Conference,East Michaelberg,84,2015-01-01,2015,1,1
+e86b5069-0e01-48aa-a33a-3108a2951532,Wang PLC Conference,Conference,East Michaelberg,85,2016-01-19,2016,1,19
+53ab2afd-cbde-43d6-aca4-5af9a7f0e7ad,Wang PLC Conference,Conference,East Michaelberg,86,2017-01-27,2017,1,27
+b1b010b2-783f-4c9b-93cd-b87044b5ca7e,Wang PLC Conference,Conference,East Michaelberg,87,2018-01-19,2018,1,19
+26cdbb5b-c7f9-4ed9-9793-4f8a0d6e5fa2,Wang PLC Conference,Conference,East Michaelberg,88,2019-01-05,2019,1,5
+cccfba47-5bf4-4003-adc1-cd349fb94a67,Wang PLC Conference,Conference,East Michaelberg,89,2020-01-12,2020,1,12
+e570cba9-ad72-44fc-8ea4-eb4a26c0fb97,Wang PLC Conference,Conference,East Michaelberg,90,2021-01-09,2021,1,9
+c4796eb1-6025-4df8-95c5-5c1e402c6542,Wang PLC Conference,Conference,East Michaelberg,91,2022-01-16,2022,1,16
+199dd3a9-d365-477b-80ca-eb3cd02e0103,Gray-Johnson Conference,Conference,West Aaron,15,2015-02-02,2015,2,2
+69664694-8702-4c3f-b734-957b09a2da9c,Gray-Johnson Conference,Conference,West Aaron,16,2016-02-05,2016,2,5
+f5938310-29dc-4a43-8f92-1a6c09dff18b,Gray-Johnson Conference,Conference,West Aaron,17,2017-02-24,2017,2,24
+2152bbae-c9ec-4f21-8597-a74c2260982f,Gray-Johnson Conference,Conference,West Aaron,18,2018-02-18,2018,2,18
+f91b1385-d86a-4da1-809f-fee0d6e80437,Gray-Johnson Conference,Conference,West Aaron,19,2019-02-09,2019,2,9
+7294aa61-54fa-4ad0-bc54-d0577418d058,Gray-Johnson Conference,Conference,West Aaron,20,2020-02-05,2020,2,5
+37e4c416-c5cc-401b-a286-9a0dce32b8a6,Gray-Johnson Conference,Conference,West Aaron,21,2021-02-26,2021,2,26
+64632f8e-11e9-4958-8a55-40187aeb85ae,Gray-Johnson Conference,Conference,West Aaron,22,2022-02-17,2022,2,17

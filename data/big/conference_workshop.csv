@@ -1,0 +1,66 @@
+Id:ID,name,type,city,edition:INT,date,year:INT,month:INT,day:INT
+5a5080ad-07e9-4511-bf41-02adeb3423fc,Carson-Peterson Conference,Conference,Lake Ann,90,2010-02-06,2010,2,6
+a8820734-ec6a-4387-99f8-8b46762d77e3,Carson-Peterson Conference,Conference,Lake Ann,91,2011-02-21,2011,2,21
+c87c850d-d9f2-44e0-84d0-79c9c7fb0d48,Carson-Peterson Conference,Conference,Lake Ann,92,2012-02-26,2012,2,26
+24041a44-d96f-48bb-90f9-6d268e42300b,Carson-Peterson Conference,Conference,Lake Ann,93,2013-02-19,2013,2,19
+08f91f82-e6ac-4f4e-a19e-9e9e2fe34e82,Carson-Peterson Conference,Conference,Lake Ann,94,2014-02-08,2014,2,8
+bb132ad3-36ba-46fe-87b6-0e1d37364789,Carson-Peterson Conference,Conference,Lake Ann,95,2015-02-12,2015,2,12
+e7c7ae1c-4cc8-4b80-8619-2870bf189bab,Carson-Peterson Conference,Conference,Lake Ann,96,2016-02-08,2016,2,8
+26dc89f9-1691-4072-920c-f13e9134460f,Carson-Peterson Conference,Conference,Lake Ann,97,2017-02-24,2017,2,24
+c145a289-8c28-453a-b499-f2507457d4e2,Carson-Peterson Conference,Conference,Lake Ann,98,2018-02-23,2018,2,23
+06f1935e-bc3f-4fbe-aceb-87488d553b50,Carson-Peterson Conference,Conference,Lake Ann,99,2019-02-10,2019,2,10
+599c38f1-dad1-474d-9beb-c3a9d321534b,Carson-Peterson Conference,Conference,Lake Ann,100,2020-02-11,2020,2,11
+5292cf93-d51a-4f3f-bcb9-80b76a7196a8,Carson-Peterson Conference,Conference,Lake Ann,101,2021-02-21,2021,2,21
+29dd01e3-3035-45d3-b5eb-8c27378f83a9,Carson-Peterson Conference,Conference,Lake Ann,102,2022-02-10,2022,2,10
+347cf09d-d1b5-44d2-a571-23d968b87cdc,"Frederick, Morrison and Michael Workshop",Workshop,South Michael,72,2010-02-04,2010,2,4
+b1fba5f8-a34e-45a4-b7a2-00b9856255c6,"Frederick, Morrison and Michael Workshop",Workshop,South Michael,73,2011-02-14,2011,2,14
+6f9c9b9b-d489-4e83-a97c-0dae8426a186,"Frederick, Morrison and Michael Workshop",Workshop,South Michael,74,2012-02-12,2012,2,12
+df7b7939-eaf8-444b-b0c3-2c698dec9ea5,"Frederick, Morrison and Michael Workshop",Workshop,South Michael,75,2013-02-07,2013,2,7
+daa54844-d903-4398-87e1-de9b9ea06827,"Frederick, Morrison and Michael Workshop",Workshop,South Michael,76,2014-02-21,2014,2,21
+e78a3e66-7401-4219-8e14-8ba047cad5a0,"Frederick, Morrison and Michael Workshop",Workshop,South Michael,77,2015-02-14,2015,2,14
+0714786e-7a1c-4483-9fc9-01c60fbc99a1,"Frederick, Morrison and Michael Workshop",Workshop,South Michael,78,2016-02-12,2016,2,12
+d1bb5870-3ffd-490f-b86b-746056f2d3f7,"Frederick, Morrison and Michael Workshop",Workshop,South Michael,79,2017-02-04,2017,2,4
+c35747ed-ac23-4339-98fc-f6089da2242a,"Frederick, Morrison and Michael Workshop",Workshop,South Michael,80,2018-02-23,2018,2,23
+99d3d8ad-88b3-4d32-aad3-c86153ecdd27,"Frederick, Morrison and Michael Workshop",Workshop,South Michael,81,2019-02-22,2019,2,22
+0ed0bdf6-d03f-4297-a2b0-e7632c1ad899,"Frederick, Morrison and Michael Workshop",Workshop,South Michael,82,2020-02-09,2020,2,9
+a4627fd0-30b5-459c-a1f5-c54827f0e430,"Frederick, Morrison and Michael Workshop",Workshop,South Michael,83,2021-02-26,2021,2,26
+2f357413-9ee2-4f07-8c00-316a851724d0,"Frederick, Morrison and Michael Workshop",Workshop,South Michael,84,2022-02-01,2022,2,1
+c28be3d6-acc3-4385-bb29-20a95439420e,"Lynch, Hughes and Lucero Workshop",Workshop,Larsenbury,58,2010-09-07,2010,9,7
+d5f37fbf-37da-493b-b7f8-bb9cef023784,"Lynch, Hughes and Lucero Workshop",Workshop,Larsenbury,59,2011-09-10,2011,9,10
+9fcd8893-33cf-45ea-9c6e-a5493d7a658a,"Lynch, Hughes and Lucero Workshop",Workshop,Larsenbury,60,2012-09-18,2012,9,18
+7b67b608-1bdb-4a54-bed6-a3f426eb4f14,"Lynch, Hughes and Lucero Workshop",Workshop,Larsenbury,61,2013-09-17,2013,9,17
+ec79d042-4ba9-46d1-b91b-819d376dc0fc,"Lynch, Hughes and Lucero Workshop",Workshop,Larsenbury,62,2014-09-18,2014,9,18
+4b71a37c-58eb-4347-b27a-2d6d98e5ef56,"Lynch, Hughes and Lucero Workshop",Workshop,Larsenbury,63,2015-09-12,2015,9,12
+a3590132-22e5-46c2-ad54-2a8d35fd0c8a,"Lynch, Hughes and Lucero Workshop",Workshop,Larsenbury,64,2016-09-27,2016,9,27
+53870f91-3ef5-4972-b482-b8b090f40da0,"Lynch, Hughes and Lucero Workshop",Workshop,Larsenbury,65,2017-09-08,2017,9,8
+405c4bf8-9f94-45b4-8c34-01ab1ce98d71,"Lynch, Hughes and Lucero Workshop",Workshop,Larsenbury,66,2018-09-22,2018,9,22
+b716a752-4577-4f22-8ded-d479e1d511b3,"Lynch, Hughes and Lucero Workshop",Workshop,Larsenbury,67,2019-09-09,2019,9,9
+660f143f-48ef-435c-b939-37da08d15cba,"Lynch, Hughes and Lucero Workshop",Workshop,Larsenbury,68,2020-09-24,2020,9,24
+82c27596-6333-459d-9f81-574da8f4bf40,"Lynch, Hughes and Lucero Workshop",Workshop,Larsenbury,69,2021-09-30,2021,9,30
+37375192-9373-4dd2-9b0c-bd82ef171972,"Lynch, Hughes and Lucero Workshop",Workshop,Larsenbury,70,2022-09-17,2022,9,17
+38a7e0f2-d977-4177-8cdf-0604d5c32a5e,Hood PLC Workshop,Workshop,North Melissahaven,35,2010-11-05,2010,11,5
+39f95a18-f9da-4839-8fe3-5eeef10a75b9,Hood PLC Workshop,Workshop,North Melissahaven,36,2011-11-29,2011,11,29
+7ccb4383-3c40-4bb4-a539-5733bf496c82,Hood PLC Workshop,Workshop,North Melissahaven,37,2012-11-25,2012,11,25
+e3a95dcb-ca7d-4d39-990e-93d46bc75e10,Hood PLC Workshop,Workshop,North Melissahaven,38,2013-11-17,2013,11,17
+af80bf4b-72a4-4964-b7e2-6b1b426a666b,Hood PLC Workshop,Workshop,North Melissahaven,39,2014-11-06,2014,11,6
+ffb932fe-796e-49a2-913a-298092ecb253,Hood PLC Workshop,Workshop,North Melissahaven,40,2015-11-15,2015,11,15
+95624dea-67d8-48b4-ad90-34f992cf5916,Hood PLC Workshop,Workshop,North Melissahaven,41,2016-11-21,2016,11,21
+a1ec42e2-9950-4e14-9798-752f74072d64,Hood PLC Workshop,Workshop,North Melissahaven,42,2017-11-14,2017,11,14
+451283b0-eeb7-4ba8-9950-2dcecc57f87f,Hood PLC Workshop,Workshop,North Melissahaven,43,2018-11-20,2018,11,20
+5f0484fe-0eba-4b09-94cb-17e5bac3e4a2,Hood PLC Workshop,Workshop,North Melissahaven,44,2019-11-28,2019,11,28
+64bb92c6-dd26-489a-ab86-02e5b614426c,Hood PLC Workshop,Workshop,North Melissahaven,45,2020-11-01,2020,11,1
+34557713-f58a-4866-8604-8bee37865a93,Hood PLC Workshop,Workshop,North Melissahaven,46,2021-11-24,2021,11,24
+5409b17f-a0a9-430e-b1d4-0eedc14c72fb,Hood PLC Workshop,Workshop,North Melissahaven,47,2022-11-22,2022,11,22
+6084e948-24fc-447f-bd00-c3b8707cb348,"Gallegos, Grant and Jones Workshop",Workshop,Andrewhaven,72,2010-01-25,2010,1,25
+d9d557d2-deb0-4233-8368-eff162bcdfcc,"Gallegos, Grant and Jones Workshop",Workshop,Andrewhaven,73,2011-01-06,2011,1,6
+c815790d-289a-4d73-ba93-ee04ae4f07b6,"Gallegos, Grant and Jones Workshop",Workshop,Andrewhaven,74,2012-01-10,2012,1,10
+d5d7db88-737f-44ff-ae6f-821de65385b9,"Gallegos, Grant and Jones Workshop",Workshop,Andrewhaven,75,2013-01-02,2013,1,2
+089a8047-4265-4632-ae5a-fde5e3c4f570,"Gallegos, Grant and Jones Workshop",Workshop,Andrewhaven,76,2014-01-16,2014,1,16
+2d54bf2c-482d-4808-8839-c25ef4cb4754,"Gallegos, Grant and Jones Workshop",Workshop,Andrewhaven,77,2015-01-05,2015,1,5
+402dc01a-2ec0-4162-a5eb-94cdb01e330d,"Gallegos, Grant and Jones Workshop",Workshop,Andrewhaven,78,2016-01-20,2016,1,20
+f92828d5-5be0-478d-8b4d-e76ae663a3aa,"Gallegos, Grant and Jones Workshop",Workshop,Andrewhaven,79,2017-01-05,2017,1,5
+de6f6512-0b5c-4c80-8092-43dbd1b4548d,"Gallegos, Grant and Jones Workshop",Workshop,Andrewhaven,80,2018-01-23,2018,1,23
+010b7a43-6250-46e5-a884-b9916c3899b3,"Gallegos, Grant and Jones Workshop",Workshop,Andrewhaven,81,2019-01-29,2019,1,29
+fe5845b7-f861-4934-a426-319138428cca,"Gallegos, Grant and Jones Workshop",Workshop,Andrewhaven,82,2020-01-27,2020,1,27
+74caf94b-38e0-4c45-a8e8-83cd04192a1d,"Gallegos, Grant and Jones Workshop",Workshop,Andrewhaven,83,2021-01-21,2021,1,21
+e26ed95d-119e-4908-aa77-fdbe19ce9325,"Gallegos, Grant and Jones Workshop",Workshop,Andrewhaven,84,2022-01-01,2022,1,1
